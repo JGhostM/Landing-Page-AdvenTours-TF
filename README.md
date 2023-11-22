@@ -1,4 +1,4 @@
-# Landing-Page-AdvenTours-TF gagaaaaaaaaaa
+# Landing-Page-AdvenTours-TF 
 
 El archivo principal de la landing page es: Index.html
 
@@ -8,4 +8,4 @@ AdvenTours es una servicio que brina a los turistas nacionales y extranjeros la 
 
 Miembros del STARUP: Alcedo Vasquez, Mathias Auguso (u202211331) Avila Diaz, Alberto Rafael (u20221c944) Barrios Flores, Sebastian D. (u202219797) Valdivia Alarcón, Ariana Arellys (u202214730) Vidal Rojas Juan Manuel (u202219061)
 
-Segmento objetivo: Turistas nacionales y extranjeros
+Segmento objetivo: Turistas nacionales y extranjeros.
